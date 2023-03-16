@@ -1,0 +1,46 @@
+.textbox .MuiOutlinedInput-root {
+  border-radius: 8px;
+  border: none;
+}
+.circle-1 {
+  position: fixed;
+  width: 500px;
+  height: 500px;
+  left: -268px;
+  top: -186px;
+  border-radius: 50%;
+  background: #f0eff9;
+  z-index: 0;
+}
+.circle-2 {
+  box-sizing: border-box;
+  border-radius: 50%;
+  position: fixed;
+  width: 500px;
+  height: 500px;
+  left: -114px;
+  top: -328px;
+  border: 0.5px solid #2563eb;
+  z-index: 0;
+}
+.circle-3 {
+  position: fixed;
+  border-radius: 50%;
+  width: 500px;
+  height: 500px;
+  left: 1450px;
+  top: 804px;
+  background: #f0eff9;
+  z-index: 0;
+}
+.circle-4 {
+  box-sizing: border-box;
+  position: fixed;
+  border-radius: 50%;
+  width: 500px;
+  height: 500px;
+  left: 1670px;
+  top: 685px;
+  border: 0.5px solid #2563eb;
+  z-index: 0;
+}
